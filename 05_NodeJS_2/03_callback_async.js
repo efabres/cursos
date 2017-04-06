@@ -1,4 +1,4 @@
-//Cuando el objeto process es procesado el exit ejecuta esto
+//Cuando el objeto 'process' es procesado el exit ejecuta esto
 process.on("exit",
     function(codigo) {
         console.log("Saliendo de Marcha " + codigo);
