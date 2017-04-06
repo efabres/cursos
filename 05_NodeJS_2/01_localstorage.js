@@ -1,3 +1,4 @@
+//Ejemplo de uso de LocalStorage
 //LocalStorage en produccion almacena los datos en los directorios temporales del Browser usado.
 //En este caso no informa al usuario que a creado estos archivos como lo hacen las 'cookies'.
 
