@@ -1,3 +1,4 @@
+//Ejemplo usando process
 //Cuando el objeto 'process' es procesado el exit ejecuta esto
 process.on("exit",
     function(codigo) {
